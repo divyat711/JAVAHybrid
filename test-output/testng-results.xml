@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60292" started-at="2019-12-23T04:37:40Z" finished-at="2019-12-23T04:38:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60292" started-at="2019-12-23T04:37:40Z" finished-at="2019-12-23T04:38:40Z">
+      <class name="DriverFactory.DriverScript">
+        <test-method status="PASS" signature="ERP_Test()[pri:0, instance:DriverFactory.DriverScript@77f03bb1]" name="ERP_Test" duration-ms="60261" started-at="2019-12-23T10:07:40Z" finished-at="2019-12-23T10:08:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ERP_Test -->
+      </class> <!-- DriverFactory.DriverScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
